@@ -8,7 +8,7 @@ const OrderSummary = (props) => {
             <h3>Your Order</h3>
             <p>Ingredients:</p>
             <ul>
-                
+
             </ul>
         </Aux>
      );

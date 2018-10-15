@@ -1,4 +1,4 @@
-import React, {PropTypes} from 'react'
+import React from 'react'
 import classes from './BuildControl.module.css'
 
 const BuildControl = (props) =>  (
@@ -12,6 +12,5 @@ const BuildControl = (props) =>  (
         </div>
     );
 
-BuildControl.propTypes = {}
 
 export default BuildControl

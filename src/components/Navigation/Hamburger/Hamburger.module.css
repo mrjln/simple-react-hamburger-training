@@ -1,0 +1,9 @@
+.Hamburger {
+    width: 30px;
+    height: 30px;
+}
+
+.Hamburger img {
+    height: 100%;
+    width: 100%;
+}

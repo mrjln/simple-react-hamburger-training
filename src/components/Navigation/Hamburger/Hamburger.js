@@ -8,7 +8,7 @@ const hamburger = (props) => {
             <img src={hamburgerImg} alt='menu-hamburger' />
         </div>
     );
-}
+};
 
 
 export default hamburger
